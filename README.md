@@ -5,8 +5,8 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](LICENSE)
 
 **Author:** Darren J. Edwards  
-**Affiliation:** Department of Public Health, Swansea University, Swansea, UK  
-**Contact:** d.j.edwards@swansea.ac.uk
+**Affiliation:** Mikoshi Ltd  
+**Contact:** mikoshiuk@gmail.com
 
 ---
 
@@ -114,7 +114,7 @@ If you use this work in your research, please cite:
   author={Edwards, Darren J.},
   journal={arXiv preprint},
   year={2026},
-  institution={Swansea University}
+  institution={Mikoshi Ltd}
 }
 ```
 
@@ -150,14 +150,14 @@ For questions, collaborations, or feedback:
 
 **Darren J. Edwards**  
 Department of Public Health  
-Swansea University, Swansea, UK  
-📧 d.j.edwards@swansea.ac.uk
+Mikoshi Ltd  
+📧 mikoshiuk@gmail.com
 
 ---
 
 ## Acknowledgments
 
-The author thanks anonymous reviewers and colleagues at Swansea University for insightful discussions on cryptoeconomic mechanism design.
+The author thanks anonymous reviewers and colleagues at Mikoshi Ltd for insightful discussions on cryptoeconomic mechanism design.
 
 ---
 
