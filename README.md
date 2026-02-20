@@ -4,7 +4,7 @@
 [![LaTeX](https://img.shields.io/badge/LaTeX-Source-green)](paper/proof_of_action.tex)
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](LICENSE)
 
-**Author:** Darren J. Edwards  
+**Author:** Darren Edwards  
 **Affiliation:** Mikoshi Ltd  
 **Contact:** mikoshiuk@gmail.com
 
@@ -112,7 +112,7 @@ If you use this work in your research, please cite:
 @article{edwards2026proofofaction,
   title={Proof-of-Action: A Verifiable Minting Policy for Utility-Backed Digital Economies},
   author={Edwards, Darren J.},
-  journal={arXiv preprint},
+  journal={Mikoshi Ltd White Paper},
   year={2026},
   institution={Mikoshi Ltd}
 }
@@ -148,8 +148,7 @@ This work is licensed under the **Apache License 2.0**. See [LICENSE](LICENSE) f
 
 For questions, collaborations, or feedback:
 
-**Darren J. Edwards**  
-Department of Public Health  
+**Darren Edwards**  
 Mikoshi Ltd  
 📧 mikoshiuk@gmail.com
 
