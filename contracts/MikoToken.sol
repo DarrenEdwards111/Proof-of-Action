@@ -14,7 +14,7 @@ import "./interfaces/IProofOfAction.sol";
  * - Standard burn functionality
  */
 contract MikoToken is IMikoToken {
-    string public constant name = "Miko Token";
+    string public constant name = "Mikoshi Coin";
     string public constant symbol = "MIKO";
     uint8 public constant decimals = 18;
 

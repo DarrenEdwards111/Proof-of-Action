@@ -1,0 +1,27 @@
+{
+  "name": "proof-of-action",
+  "version": "1.0.0",
+  "description": "[![PDF](https://img.shields.io/badge/PDF-Download-blue)](paper/proof_of_action.pdf) [![LaTeX](https://img.shields.io/badge/LaTeX-Source-green)](paper/proof_of_action.tex) [![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](LICENSE)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarrenEdwards111/Proof-of-Action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarrenEdwards111/Proof-of-Action/issues"
+  },
+  "homepage": "https://github.com/DarrenEdwards111/Proof-of-Action#readme",
+  "dependencies": {
+    "ethers": "^6.16.0",
+    "solc": "^0.8.20"
+  }
+}
